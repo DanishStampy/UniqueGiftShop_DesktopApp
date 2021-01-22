@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8FD95703-9D81-4E00-AA4C-61A4112B1690}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>prj_uniquegiftshop_a175139.My.MyApplication</StartupObject>
+    <RootNamespace>prj_uniquegiftshop_a175139</RootNamespace>
+    <AssemblyName>prj_uniquegiftshop_a175139</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>prj_uniquegiftshop_a175139.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>prj_uniquegiftshop_a175139.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_catalog_a175139.Designer.vb">
+      <DependentUpon>frm_catalog_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_catalog_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_customerinfo_a175139.Designer.vb">
+      <DependentUpon>frm_customerinfo_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_customerinfo_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_insertcustomer_a175139.Designer.vb">
+      <DependentUpon>frm_insertcustomer_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_insertcustomer_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_insertproduct_a175139.Designer.vb">
+      <DependentUpon>frm_insertproduct_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_insertproduct_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_insertstaff_a175139.Designer.vb">
+      <DependentUpon>frm_insertstaff_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_insertstaff_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_listoforder_a175139.Designer.vb">
+      <DependentUpon>frm_listoforder_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_listoforder_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_listofproduct_a175139.Designer.vb">
+      <DependentUpon>frm_listofproduct_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_listofproduct_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_makeorder_a175139.Designer.vb">
+      <DependentUpon>frm_makeorder_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_makeorder_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_orderdetails_a175139.Designer.vb">
+      <DependentUpon>frm_orderdetails_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_orderdetails_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mainmenu_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mainmenu_a175139.Designer.vb">
+      <DependentUpon>frm_mainmenu_a175139.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_splashscreen_a175139.Designer.vb">
+      <DependentUpon>frm_splashscreen_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_splashscreen_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_staffinfo_a175139.Designer.vb">
+      <DependentUpon>frm_staffinfo_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_staffinfo_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_update_delete_customer_a175139.Designer.vb">
+      <DependentUpon>frm_update_delete_customer_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_update_delete_customer_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_update_delete_product_a175139.Designer.vb">
+      <DependentUpon>frm_update_delete_product_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_update_delete_product_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_update_delete_staff_a175139.Designer.vb">
+      <DependentUpon>frm_update_delete_staff_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_update_delete_staff_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_vieworder_a175139.Designer.vb">
+      <DependentUpon>frm_vieworder_a175139.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_vieworder_a175139.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mod_globals.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_catalog_a175139.resx">
+      <DependentUpon>frm_catalog_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_customerinfo_a175139.resx">
+      <DependentUpon>frm_customerinfo_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_insertcustomer_a175139.resx">
+      <DependentUpon>frm_insertcustomer_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_insertproduct_a175139.resx">
+      <DependentUpon>frm_insertproduct_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_insertstaff_a175139.resx">
+      <DependentUpon>frm_insertstaff_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_listoforder_a175139.resx">
+      <DependentUpon>frm_listoforder_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_listofproduct_a175139.resx">
+      <DependentUpon>frm_listofproduct_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_makeorder_a175139.resx">
+      <DependentUpon>frm_makeorder_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_orderdetails_a175139.resx">
+      <DependentUpon>frm_orderdetails_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mainmenu_a175139.resx">
+      <DependentUpon>frm_mainmenu_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_splashscreen_a175139.resx">
+      <DependentUpon>frm_splashscreen_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_staffinfo_a175139.resx">
+      <DependentUpon>frm_staffinfo_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_update_delete_customer_a175139.resx">
+      <DependentUpon>frm_update_delete_customer_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_update_delete_product_a175139.resx">
+      <DependentUpon>frm_update_delete_product_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_update_delete_staff_a175139.resx">
+      <DependentUpon>frm_update_delete_staff_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_vieworder_a175139.resx">
+      <DependentUpon>frm_vieworder_a175139.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\satin-bow-bant-box-pink-gift-podarok-puple-lenta-present-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\satin-bow-bant-box-pink-gift-podarok-puple-lenta-present-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Preppy-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siswa-png-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-photo-1303082.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0ZomM9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\love-wallpaper-20081013452726-scaled.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2461286afc14ea178d40a0e7b1419819.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo gift.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\love gifts wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cd39970a881e12cc55244b5ab19d62c1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

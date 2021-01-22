@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_uniquegiftshop_a175139", "prj_uniquegiftshop_a175139.vbproj", "{8FD95703-9D81-4E00-AA4C-61A4112B1690}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_UniqueGiftShop_A175139", "..\Setup_UniqueGiftShop_A175139\Setup_UniqueGiftShop_A175139.vdproj", "{7C460D6B-C994-4639-8748-332ECB6CECA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD95703-9D81-4E00-AA4C-61A4112B1690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD95703-9D81-4E00-AA4C-61A4112B1690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD95703-9D81-4E00-AA4C-61A4112B1690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD95703-9D81-4E00-AA4C-61A4112B1690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C460D6B-C994-4639-8748-332ECB6CECA1}.Debug|Any CPU.ActiveCfg = Debug
+		{7C460D6B-C994-4639-8748-332ECB6CECA1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68529F22-BAAD-4749-90FB-5091A758B8B7}
+	EndGlobalSection
+EndGlobal

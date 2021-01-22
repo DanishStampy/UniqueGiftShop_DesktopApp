@@ -1,0 +1,50 @@
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\bin\Debug\prj_uniquegiftshop_a175139.exe.config
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\bin\Debug\prj_uniquegiftshop_a175139.exe
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\bin\Debug\prj_uniquegiftshop_a175139.pdb
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\bin\Debug\prj_uniquegiftshop_a175139.xml
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.vbprojAssemblyReference.cache
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.Resources.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.vbproj.GenerateResource.cache
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.vbproj.CoreCompileInputs.cache
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.exe
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.xml
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.pdb
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_staffinfo_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_listofproduct_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_customerinfo_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_listoforder_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_orderdetails_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_mainmenu_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_catalog_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_insertcustomer_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_insertstaff_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_insertproduct_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_update_delete_customer.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_update_delete_staff.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment 1\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_update_delete_product.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\bin\Debug\prj_uniquegiftshop_a175139.exe.config
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\bin\Debug\prj_uniquegiftshop_a175139.exe
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\bin\Debug\prj_uniquegiftshop_a175139.pdb
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\bin\Debug\prj_uniquegiftshop_a175139.xml
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_catalog_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_customerinfo_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_insertcustomer_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_insertproduct_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_insertstaff_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_listoforder_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_listofproduct_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_makeorder_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_orderdetails_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_mainmenu_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_staffinfo_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_update_delete_customer_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_update_delete_product_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_update_delete_staff_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.Resources.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.vbproj.GenerateResource.cache
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.vbproj.CoreCompileInputs.cache
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.exe
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.xml
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.pdb
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_vieworder_a175139.resources
+D:\sem 3\Advanced Database\Lab Assignment\Assignment\prj_uniquegiftshop_a175139\obj\Debug\prj_uniquegiftshop_a175139.frm_splashscreen_a175139.resources

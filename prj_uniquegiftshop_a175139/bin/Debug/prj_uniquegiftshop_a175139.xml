@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prj_uniquegiftshop_a175139
+</name>
+</assembly>
+<members>
+<member name="T:prj_uniquegiftshop_a175139.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources._0ZomM9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources._2461286afc14ea178d40a0e7b1419819">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.cd39970a881e12cc55244b5ab19d62c1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.logo_gift">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.love_gifts_wallpaper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.love_wallpaper_20081013452726_scaled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.pexels_photo_1303082">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.Preppy_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.product">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.satin_bow_bant_box_pink_gift_podarok_puple_lenta_present_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.satin_bow_bant_box_pink_gift_podarok_puple_lenta_present_21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.siswa_png_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_uniquegiftshop_a175139.My.Resources.Resources.Untitled_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
